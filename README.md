@@ -1,4 +1,4 @@
-### * This guide will hide the extra separator lines below the tableview cells empty space
+### This guide will hide the extra separator lines below the tableview cells empty space
 
 
 ### This Guide Will Hide these Extra Separator Lines
